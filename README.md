@@ -1,3 +1,3 @@
 railsチュートリアルを普通にやってるだけです。
 
-https://dry-hamlet-29194.herokuapp.com/users
+https://dry-hamlet-29194.herokuapp.com/
